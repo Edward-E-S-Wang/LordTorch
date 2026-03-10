@@ -1,0 +1,10 @@
+/build/
+/.idea/
+/.vscode/*.db
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+__pycache__/

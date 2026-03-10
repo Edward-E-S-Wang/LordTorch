@@ -1,0 +1,6 @@
+{
+  "cmake.cmakePath": "E:/CMake/bin/cmake.exe",
+  "cmake.useCMakePresets": "auto",
+  "cmake.buildDirectory": "${workspaceFolder}/build",
+  "cmake.configureOnOpen": false
+}
